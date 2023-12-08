@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280906391236",
+    "project_id": "fir-ecomarce",
+    "storage_bucket": "fir-ecomarce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280906391236:android:3f17baf1b4e4f421b03391",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDacJx4ZaT61k3-XAG6ErYTAji4c7U7U_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
